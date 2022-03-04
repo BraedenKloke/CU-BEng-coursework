@@ -5,7 +5,6 @@ Version: March 4, 2022
 
 Description:
 ------------
-
 Test harness for Lab 6 and Assignment 1 for the course SYSC 2100 (Algorithms and Data Structures)
 at Carleton University.
 
