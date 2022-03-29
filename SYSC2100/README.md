@@ -18,4 +18,4 @@ Test harnesses for "SYSC 2100: Algorithms and Data Structures" assignments at Ca
 
 # Disclaimer
 
-This work is documented on GitHub to be used only as reference for job applications. Writing a test harness was not required in these assignments. Posting the test harness on GitHub does not violate any form of academic integrity.
+This work is documented on GitHub to be used only as reference for job applications. Writing a test harness was not required in these assignments. Posting the test harnesses on GitHub does not violate any form of academic integrity.
