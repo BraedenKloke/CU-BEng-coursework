@@ -4,7 +4,7 @@ Version: March 30, 2022
 
 Description:
 ------------
-Test harness for Lab 9 for the course SYSC 2100 (Algorithms and Data Structures) at Carleton University.
+Test harness for Lab 10 for the course SYSC 2100 (Algorithms and Data Structures) at Carleton University.
 
 Lab 10 required the student to implement various methods on class BSTMap in Python. 
 
