@@ -10,6 +10,7 @@ Test harnesses for "SYSC 2100: Algorithms and Data Structures" assignments at Ca
 
 
 # List of Test Harnesses
+* 2022-04-6: testMaxHeap
 * 2022-03-30: testBSTMap
 * 2022-03-23: test_binarysearchtree
 * 2022-03-18: test_binarytree
