@@ -21,7 +21,7 @@ Improvements for Next Time:
 ---------------------------
 1) Get familar with unittest command line functions (like -v)
 
-3) Figure out if there is a better way to test print statements rather than visual verification
+2) Figure out if there is a better way to test print statements rather than visual verification
 """
 import unittest
 from maxheap import *
@@ -33,8 +33,9 @@ class TestHeap(unittest.TestCase):
         self.maxHeap0 = BinaryHeap()
 
     def testMaxHeap1(self):
-        self.assertRaises(IndexError, lambda: self.maxHeap0.find_max())
         self.assertEqual(0, len(self.maxHeap0))
+        self.assertRaises(IndexError, lambda: self.maxHeap0.find_max())
+        self.assertRaises(IndexError, lambda: self.maxHeap0.remove())
 
     def testMaxHeap2(self):
         # Remove from heap with elements added in ascending order
